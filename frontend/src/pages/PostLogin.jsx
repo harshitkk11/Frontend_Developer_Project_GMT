@@ -92,7 +92,7 @@ const PostLogin = () => {
         </button>
 
         <a
-          className="text-[1rem] text-lightgray font-medium"
+          className="text-[1rem] text-lightgray font-medium cursor-pointer"
           onClick={handleLogout}
         >
           Logout
