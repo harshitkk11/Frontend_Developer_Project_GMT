@@ -62,7 +62,7 @@ const TrackingScreen = () => {
 
   // handle share button
   const handleShare = async () => {
-    const url = `http://localhost:5173/tracking?speed=${speed}`;
+    const url = `https://gmt-assignment.vercel.app/tracking?speed=${speed}`;
     try {
       await navigator.clipboard.writeText(url);
       toast.success("URL copied to clipboard!");
