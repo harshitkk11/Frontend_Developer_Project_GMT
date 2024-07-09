@@ -39,20 +39,24 @@ The project is deployed on GitHub and hosted on Vercel.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-```git clone [[Your GitHub Repository Link]](https://github.com/harshitkk11/Frontend_Developer_Project_GMT)
+```
+git clone [[Your GitHub Repository Link]](https://github.com/harshitkk11/Frontend_Developer_Project_GMT)
 cd Frontend_Developer_Project_GMT
 ```
 
 2. Install dependencies:
-```npm install
+```
+npm install
 ```
 
 3. Run the application:
-```npm start
+```
+npm start
 ```
 
 4. Build the application for production:
-```npm run build
+```
+npm run build
 ```
 
 ## Usage
