@@ -124,7 +124,7 @@ const TrackingScreen = () => {
 
       {/* Share Button */}
       <button
-        className="bg-orange text-white w-full p-4 rounded-full"
+        className="bg-orange text-white w-full p-4 rounded-full hover:scale-105"
         onClick={handleShare}
       >
         Share
