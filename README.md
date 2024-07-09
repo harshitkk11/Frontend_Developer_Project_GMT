@@ -19,7 +19,7 @@ This project is a web application developed using ReactJS. It includes the follo
 2. Tracking/Post-Login Screen
 This screen is designed based on the UI provided for previous screens, maintaining the same style, colors, and overall look and feel.
 
-###Components:
+### Components:
 - **Analog Clock:**
 Runs anticlockwise and counts down from the current time to 120 minutes earlier.
 - **Speed Slider:**
@@ -42,12 +42,15 @@ To run this project locally, follow these steps:
 ```git clone [[Your GitHub Repository Link]](https://github.com/harshitkk11/Frontend_Developer_Project_GMT)
 cd Frontend_Developer_Project_GMT
 ```
+
 2. Install dependencies:
 ```npm install
 ```
+
 3. Run the application:
 ```npm start
 ```
+
 4. Build the application for production:
 ```npm run build
 ```
