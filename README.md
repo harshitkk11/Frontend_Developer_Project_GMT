@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone [Your GitHub Repository Link](https://github.com/harshitkk11/Frontend_Developer_Project_GMT)
+git clone [https://github.com/harshitkk11/Frontend_Developer_Project_GMT](https://github.com/harshitkk11/Frontend_Developer_Project_GMT)
 cd Frontend_Developer_Project_GMT
 ```
 
